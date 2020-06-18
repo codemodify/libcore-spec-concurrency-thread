@@ -1,1 +1,0 @@
-# libcore-spec-concurrency-thread
